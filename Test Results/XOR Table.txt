@@ -1,0 +1,5 @@
+==============================  XOR Table  ==============================
+Input: [0 1] | expected: [1] | prediction: [0.99046413] | accuracy: 99.0%
+Input: [0 0] | expected: [0] | prediction: [0.00811682] | accuracy: 99.2%
+Input: [1 1] | expected: [0] | prediction: [0.01007462] | accuracy: 99.0%
+Input: [0 1] | expected: [1] | prediction: [0.99046413] | accuracy: 99.0%

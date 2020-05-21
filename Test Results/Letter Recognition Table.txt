@@ -1,0 +1,29 @@
+================================================================================
+Test Sample Size: 4000 | Correctly Predicted Sample Size: 3212 | Accuracy: 0.803
+================================================================================
+A => Test size:  156 | Predicted Size:  161 | Correctly Predicted Size:  133 | Accuracy: 0.853
+B => Test size:  136 | Predicted Size:  140 | Correctly Predicted Size:  105 | Accuracy: 0.772
+C => Test size:  142 | Predicted Size:  156 | Correctly Predicted Size:  120 | Accuracy: 0.845
+D => Test size:  167 | Predicted Size:  203 | Correctly Predicted Size:  146 | Accuracy: 0.874
+E => Test size:  152 | Predicted Size:  138 | Correctly Predicted Size:  111 | Accuracy: 0.730
+F => Test size:  153 | Predicted Size:  139 | Correctly Predicted Size:  118 | Accuracy: 0.771
+G => Test size:  164 | Predicted Size:  179 | Correctly Predicted Size:  124 | Accuracy: 0.756
+H => Test size:  151 | Predicted Size:   87 | Correctly Predicted Size:   75 | Accuracy: 0.497
+I => Test size:  165 | Predicted Size:  182 | Correctly Predicted Size:  142 | Accuracy: 0.861
+J => Test size:  148 | Predicted Size:  119 | Correctly Predicted Size:  114 | Accuracy: 0.770
+K => Test size:  146 | Predicted Size:  143 | Correctly Predicted Size:  109 | Accuracy: 0.747
+L => Test size:  157 | Predicted Size:  155 | Correctly Predicted Size:  131 | Accuracy: 0.834
+M => Test size:  144 | Predicted Size:  141 | Correctly Predicted Size:  132 | Accuracy: 0.917
+N => Test size:  166 | Predicted Size:  143 | Correctly Predicted Size:  134 | Accuracy: 0.807
+O => Test size:  139 | Predicted Size:  160 | Correctly Predicted Size:  109 | Accuracy: 0.784
+P => Test size:  168 | Predicted Size:  172 | Correctly Predicted Size:  147 | Accuracy: 0.875
+Q => Test size:  168 | Predicted Size:  215 | Correctly Predicted Size:  153 | Accuracy: 0.911
+R => Test size:  161 | Predicted Size:  222 | Correctly Predicted Size:  138 | Accuracy: 0.857
+S => Test size:  161 | Predicted Size:  139 | Correctly Predicted Size:  100 | Accuracy: 0.621
+T => Test size:  151 | Predicted Size:  141 | Correctly Predicted Size:  126 | Accuracy: 0.834
+U => Test size:  168 | Predicted Size:  139 | Correctly Predicted Size:  129 | Accuracy: 0.768
+V => Test size:  136 | Predicted Size:  149 | Correctly Predicted Size:  126 | Accuracy: 0.926
+W => Test size:  139 | Predicted Size:  132 | Correctly Predicted Size:  123 | Accuracy: 0.885
+X => Test size:  159 | Predicted Size:  160 | Correctly Predicted Size:  129 | Accuracy: 0.811
+Y => Test size:  145 | Predicted Size:  132 | Correctly Predicted Size:  113 | Accuracy: 0.779
+Z => Test size:  158 | Predicted Size:  153 | Correctly Predicted Size:  125 | Accuracy: 0.791
